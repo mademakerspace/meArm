@@ -13,4 +13,4 @@ Marc built a custom controller using two thumb joysticks that were recovered fro
 ![alt text](https://github.com/mademakerspace/meArm/blob/master/img/mearm_side.jpg "MeArm side")
 
 
-![alt text](https://github.com/mademakerspace/meArm/blob/master/img/mearm_with_controller.jpg "MeArm top")
+![alt text](https://github.com/mademakerspace/meArm/blob/master/img/mearm_with_controler.jpg "MeArm top")
