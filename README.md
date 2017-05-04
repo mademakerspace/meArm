@@ -8,3 +8,9 @@ I built a MeArm using a laser cutter to cut the pieces of the arm in 3mm acrylic
 
 ## Controlling the MeArm
 Marc built a custom controller using two thumb joysticks that were recovered from an old PS1 controller. 
+
+
+![alt text](https://github.com/mademakerspace/meArm/blob/master/img/mearm_side.jpg "MeArm side")
+
+
+![alt text](https://github.com/mademakerspace/meArm/blob/master/img/mearm_with_controller.jpg "MeArm top")
